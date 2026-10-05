@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "exporter_version": "6.4.0",
-  "exported_at": "2026-10-04T07:37:56.988839+00:00",
+  "exporter_version": "6.4.17",
+  "exported_at": "2026-10-05T11:48:04.469171+00:00",
   "source_url": "https://yandex.ru/maps/org/parikmakher_tekhnolog_kolorist_anastasiya_knyazeva/115625714449/",
   "source_platform": "yandex_maps",
   "resolved_url": "https://yandex.ru/maps/org/115625714449/",
@@ -374,6 +374,13 @@
       "raw_text": "Евгения Т. Знаток города 3 уровня Подписаться 30 декабря 2025 Боже мой, ну что за золотые ручки у этого мастера!!! Попала к Анастасии случайно, ориентировалась по отзывам и ее работам!!! Все супер! Мастер работает быстро, четко и мягко. Ни какой небрежности или брезгливости в ее работе не увидела. Всем стесняшкам рекомендую! Посмотреть ответ организации"
     },
     {
+      "author": "Александр",
+      "date": "10 июля",
+      "rating": "5",
+      "text": "Анастасия — мастер своего дела! Подстригла аккуратно, быстро, учла все пожелания. Отдельно хочется отметить ее обаяние и приятную атмосферу. Я придирчивый, но тут даже не к чему придраться. Спасибо!",
+      "raw_text": "Александр Знаток города 6 уровня Подписаться 10 июля Анастасия — мастер своего дела! Подстригла аккуратно, быстро, учла все пожелания. Отдельно хочется отметить ее обаяние и приятную атмосферу. Я придирчивый, но тут даже не к чему придраться. Спасибо! Посмотреть ответ организации"
+    },
+    {
       "author": "Мария Л.",
       "date": "6 апреля",
       "rating": "5",
@@ -400,13 +407,6 @@
       "rating": "5",
       "text": "К мастеру Анастасии я хожу уже 5-й год . Настя большой профессионал своего дела . Она очень любит свою работу и поэтому все образы , которые она очень умело создает своими «золотыми ручками» меня всегда очень радуют и восхищают ! А еще Настя делает отлично брови . Подобрала мне тон и форму ! Спасибо Настя большое !",
       "raw_text": "М Марина Галафаст Знаток города 3 уровня Подписаться 29 августа 2025 К мастеру Анастасии я хожу уже 5-й год . Настя большой профессионал своего дела . Она очень любит свою работу и поэтому все образы , которые она очень умело создает своими «золотыми ручками» меня всегда очень радуют и восхищают ! А еще Настя делает отлично брови . Подобрала мне тон и форму ! Спасибо Настя большое ! 1 Посмотреть ответ организации"
-    },
-    {
-      "author": "Александр",
-      "date": "10 июля",
-      "rating": "5",
-      "text": "Анастасия — мастер своего дела! Подстригла аккуратно, быстро, учла все пожелания. Отдельно хочется отметить ее обаяние и приятную атмосферу. Я придирчивый, но тут даже не к чему придраться. Спасибо!",
-      "raw_text": "Александр Знаток города 6 уровня Подписаться 10 июля Анастасия — мастер своего дела! Подстригла аккуратно, быстро, учла все пожелания. Отдельно хочется отметить ее обаяние и приятную атмосферу. Я придирчивый, но тут даже не к чему придраться. Спасибо! Посмотреть ответ организации"
     },
     {
       "author": "Ольга О.",
@@ -580,6 +580,482 @@
   ],
   "photos": [
     {
+      "file": "Gallery-01.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/19646909/2a0000019c233022e16ce42e9b6d72e52533/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "81a4f7276ca133f10cc1e0044b1ab4b074422eb2281582380507923ec39a3e3c",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-02.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16379675/2a00000198e13bd213abd4b36459d8d4ea67/XXXL",
+      "source_width": 1024,
+      "source_height": 1280,
+      "width": 1024,
+      "height": 1280,
+      "sha256": "2d19b053628c4564113a256bf738d282c7b97cf9238db60db06f93cc334e48e4",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-03.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16965486/2a00000197dfdf0fe9e193bea88d4c08feaa/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "fa844b8d50ae364a77415e5ccd239102867a5caa65771530246d20370ac80e52",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-04.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15389657/2a00000197db09710e8d2a2eb3868307bbfb/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "14e67e4af51d87f91b1596cf36be786b43f410f6895ad9b602781e134452b05b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-05.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16823151/2a00000198e13bcdac8925cc39ed5ce020e2/XXXL",
+      "source_width": 1024,
+      "source_height": 1280,
+      "width": 1024,
+      "height": 1280,
+      "sha256": "2e137292142a1e455afc9072abb91533526185856f90f6b80c16b7b042edd812",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-06.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16437561/2a00000198e13b34495a92045f2b399f54c2/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 1280,
+      "height": 960,
+      "sha256": "89b2c0df2593a02beee6a18dd1bb791ae34f5ff372a4c61d69609b10558332d5",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-07.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16158716/2a00000197d71101d0bbe6b535028bf1b480/XXXL",
+      "source_width": 644,
+      "source_height": 1280,
+      "width": 644,
+      "height": 1280,
+      "sha256": "e0d3e66a265c714760626d5cf63da577c88cab62ec3716b472e9734f8a1956d5",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-08.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/14246212/2a00000198df7133d2e2e9507f7305623c15/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "7c8aeca7192ad805b3db60b947667f20f03145046f12f436a93577ba44e59326",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-09.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15993332/2a00000197a18594941b3cc0ff022bbceea4/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "657e847e711a76efd66c2842a45d53aa43ac87c3de701dc6a3c5c1ed0f35d798",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-10.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16920891/2a0000019803ccb0efff0a606686733dac7a/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "4373d40d81eff00a3efb546fb2072c4b41f8bc410455f3c24972649b3e598b2c",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-11.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/18133168/2a0000019afc9001cf08a60e1030aa23d613/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "bba8636a8e0552e94b3daa79ddf7b1a16b4d5d4894142dfa56847298c13e3acc",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-12.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16823151/2a00000198e13aac5a01f789fa1b197dc2f5/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "6da589d454d4e8c4e4d67cb713522284440a2f56d8a7c97eb4d7cd3bf67f3a58",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-13.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/18396981/2a0000019c1f7d1d9e6138b4ee743bdeaf43/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 1280,
+      "sha256": "772784b15123da1530d7fa09d955b8ab0bd3abacf3f4dc8dc00af1600e479f64",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-14.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16299341/2a0000019afc8ffcfd8ce76c505a4747ff0f/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "d81d0d2514d0937bfe90afc2f05fc61f2dd4ef20b3e946ed9e6dffad4b9db0a7",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-15.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15426074/2a00000197d8d4561cb90510e891bdb8a16f/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "7baa29deb6791cfef2965c39ed4f9db9cbe827ad750953c9db4e9b5b6ff654a4",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-16.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16318204/2a00000197d8d3d5e0c2feab878e6f0f170e/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "a220d94b5e7224c54cf9e17dcd969b038971fcfb85cf12c09b629a1716553d3d",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-17.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15712232/2a00000199dcd90f26e63bddb44a69d410f4/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "85209f68a798428a09522589d31dd7de864649d17dec507c9d43f9086a12f62b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-18.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16137047/2a00000198bc2b3bbac4739d7ae64d7a973e/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "d3126ca71967fa512b0ac38b57809f90bb2befe8244461933e03a3787953f06c",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-19.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/12721348/2a00000199dcd90ca2ea39ed64f88cf8757d/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "fc26b1e23c596cb37baa32a1f192280a27f72a66bc8c28d5b8aa53c376b81357",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-20.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15712112/2a00000197dfde45afd6c69a3a3658c40d90/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "a461c6ff250379c3a6d0e0c2a010cb2a1641e8b03b2e63d0be6aff445a3d0103",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-21.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/14782168/2a00000198e13a9f4daa762cdd57b0523d37/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "f74debfc636519bfe554ccfd8f1065b3b2ee58b8e90d321cbd5ba0fd528d5bc1",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-22.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15586709/2a00000198df70f71986523463b3dd456e4e/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "888b0de0a4e64f244c5c979ee9903911fb4543173e01db79fd26b2be408892fb",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-23.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/14782168/2a00000197a1858d2f97be9075a061952e28/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "7a55e8c70a13a857961eca5700ad62c09c9a77d5b5286d43d53995867c24589b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-24.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/19553098/2a0000019c233012397801128676e59b34a3/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "ed8afccbc83be2f3edfc3663be2ae80faea732f99349837a33989a5a7cb7f8d0",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-25.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15416336/2a000001988ab9c31d4d48c5674ec53028e1/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "2fb9b172d23dafcd9f16daadca597efa4a76e27e7d4033edd5a4825dbb945ccf",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-26.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16899665/2a00000198e13b225b1abb7ac65ec263a4c7/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "b8a5f710a0f8ef71692dd4f5082f2712122bb05a2d09e4b12e2d249543c8ea0a",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-27.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/14868744/2a00000197dfdf70988d11cc87a21a1059ad/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "38ebdf6e7e2b9d7d65646cf3dac2b01d73c23ad5d30358f48a85fd85ec141d2b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-28.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/14910910/2a00000198e13ab8b3b72edb43251056021b/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "f588aa2503edfc3ed4fae93ad4006513345d2036c5b7b4a851ff724e2a90fe70",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-29.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/15712232/2a00000197d8cea9786d6e579b58dfa26e6b/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "f11ca91642a53c9c76ea6fccbf81bda0ac4a72bb5d0e6e3b0080217db2c96997",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-30.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16319048/2a00000199dcd909b193855747fb0476b5be/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "5246cb8655976b1c70c24ffc7e7d79c704d08af134e6ba6cbc4edd10a7eae4ba",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-31.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16404250/2a00000198e13afe42e7eb24865ffb5445c5/XXXL",
+      "source_width": 1027,
+      "source_height": 1280,
+      "width": 1027,
+      "height": 1280,
+      "sha256": "0e37807c15606fcfcbf027dc8fe41ed693284de1d8ca7a8ec50040ee6898377a",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-32.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/18134764/2a0000019c321017bd04d9d3419fb28c6628/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "e58c1bbd4051423690f0f955311ab1b8aca69b08904b82caba67b6805510d3c1",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-33.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16390227/2a00000199fbca084daa7cd7966dc5eba8da/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "df987324a62d20a6e6e46fd4157843bffc90ec0e54feb662975ec5b26be1fa1a",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-34.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16443717/2a00000199fbca3e162bba561a2c6492df86/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 1280,
+      "height": 960,
+      "sha256": "b3b0b29266d44a2f02ecd54f9aa3b9340b83ec42fc02a5a641e8bc3f1372e976",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
       "file": "Hero.webp",
       "source": "https://avatars.mds.yandex.net/get-altay/18396981/2a0000019c3210f4f842a78722ee5f33330c/XXXL",
       "source_width": 960,
@@ -604,331 +1080,6 @@
         "Все"
       ],
       "role": "profile"
-    },
-    {
-      "file": "Gallery-01.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/18134764/2a0000019c321017bd04d9d3419fb28c6628/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "e58c1bbd4051423690f0f955311ab1b8aca69b08904b82caba67b6805510d3c1",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-02.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/18109934/2a0000019c321057fb41752b7f506c973ce5/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "f2f6d057ebf3df44fc772e2e553bff77eb8790d598eabc4cc2389c583a6e9007",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-03.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/19646909/2a0000019c233022e16ce42e9b6d72e52533/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "81a4f7276ca133f10cc1e0044b1ab4b074422eb2281582380507923ec39a3e3c",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-04.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16390227/2a00000199fbca084daa7cd7966dc5eba8da/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "df987324a62d20a6e6e46fd4157843bffc90ec0e54feb662975ec5b26be1fa1a",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-05.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16379675/2a00000198e13bd213abd4b36459d8d4ea67/XXXL",
-      "source_width": 1024,
-      "source_height": 1280,
-      "width": 1024,
-      "height": 1280,
-      "sha256": "2d19b053628c4564113a256bf738d282c7b97cf9238db60db06f93cc334e48e4",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-06.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16965486/2a00000197dfdf0fe9e193bea88d4c08feaa/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "fa844b8d50ae364a77415e5ccd239102867a5caa65771530246d20370ac80e52",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-07.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/15389657/2a00000197db09710e8d2a2eb3868307bbfb/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "14e67e4af51d87f91b1596cf36be786b43f410f6895ad9b602781e134452b05b",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-08.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16823151/2a00000198e13bcdac8925cc39ed5ce020e2/XXXL",
-      "source_width": 1024,
-      "source_height": 1280,
-      "width": 1024,
-      "height": 1280,
-      "sha256": "2e137292142a1e455afc9072abb91533526185856f90f6b80c16b7b042edd812",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-09.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16437561/2a00000198e13b34495a92045f2b399f54c2/XXXL",
-      "source_width": 1280,
-      "source_height": 960,
-      "width": 1280,
-      "height": 960,
-      "sha256": "89b2c0df2593a02beee6a18dd1bb791ae34f5ff372a4c61d69609b10558332d5",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-10.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16158716/2a00000197d71101d0bbe6b535028bf1b480/XXXL",
-      "source_width": 644,
-      "source_height": 1280,
-      "width": 644,
-      "height": 1280,
-      "sha256": "e0d3e66a265c714760626d5cf63da577c88cab62ec3716b472e9734f8a1956d5",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-11.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/14246212/2a00000198df7133d2e2e9507f7305623c15/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "7c8aeca7192ad805b3db60b947667f20f03145046f12f436a93577ba44e59326",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-12.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/15993332/2a00000197a18594941b3cc0ff022bbceea4/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "657e847e711a76efd66c2842a45d53aa43ac87c3de701dc6a3c5c1ed0f35d798",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-13.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16920891/2a0000019803ccb0efff0a606686733dac7a/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "4373d40d81eff00a3efb546fb2072c4b41f8bc410455f3c24972649b3e598b2c",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-14.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/18133168/2a0000019afc9001cf08a60e1030aa23d613/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "bba8636a8e0552e94b3daa79ddf7b1a16b4d5d4894142dfa56847298c13e3acc",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-15.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16823151/2a00000198e13aac5a01f789fa1b197dc2f5/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "6da589d454d4e8c4e4d67cb713522284440a2f56d8a7c97eb4d7cd3bf67f3a58",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-16.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/18396981/2a0000019c1f7d1d9e6138b4ee743bdeaf43/XXXL",
-      "source_width": 720,
-      "source_height": 1280,
-      "width": 720,
-      "height": 1280,
-      "sha256": "772784b15123da1530d7fa09d955b8ab0bd3abacf3f4dc8dc00af1600e479f64",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-17.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16299341/2a0000019afc8ffcfd8ce76c505a4747ff0f/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "d81d0d2514d0937bfe90afc2f05fc61f2dd4ef20b3e946ed9e6dffad4b9db0a7",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-18.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/15426074/2a00000197d8d4561cb90510e891bdb8a16f/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "7baa29deb6791cfef2965c39ed4f9db9cbe827ad750953c9db4e9b5b6ff654a4",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-19.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16318204/2a00000197d8d3d5e0c2feab878e6f0f170e/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "a220d94b5e7224c54cf9e17dcd969b038971fcfb85cf12c09b629a1716553d3d",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-20.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/15712232/2a00000199dcd90f26e63bddb44a69d410f4/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "85209f68a798428a09522589d31dd7de864649d17dec507c9d43f9086a12f62b",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-21.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16443717/2a00000199fbca3e162bba561a2c6492df86/XXXL",
-      "source_width": 1280,
-      "source_height": 960,
-      "width": 1280,
-      "height": 960,
-      "sha256": "b3b0b29266d44a2f02ecd54f9aa3b9340b83ec42fc02a5a641e8bc3f1372e976",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-22.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/16137047/2a00000198bc2b3bbac4739d7ae64d7a973e/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "d3126ca71967fa512b0ac38b57809f90bb2befe8244461933e03a3787953f06c",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-23.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/12721348/2a00000199dcd90ca2ea39ed64f88cf8757d/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "fc26b1e23c596cb37baa32a1f192280a27f72a66bc8c28d5b8aa53c376b81357",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-24.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/15712112/2a00000197dfde45afd6c69a3a3658c40d90/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "a461c6ff250379c3a6d0e0c2a010cb2a1641e8b03b2e63d0be6aff445a3d0103",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-25.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/14782168/2a00000198e13a9f4daa762cdd57b0523d37/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "f74debfc636519bfe554ccfd8f1065b3b2ee58b8e90d321cbd5ba0fd528d5bc1",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
     }
   ],
   "site_images": {
@@ -960,7 +1111,16 @@
       "assets/Gallery-22.webp",
       "assets/Gallery-23.webp",
       "assets/Gallery-24.webp",
-      "assets/Gallery-25.webp"
+      "assets/Gallery-25.webp",
+      "assets/Gallery-26.webp",
+      "assets/Gallery-27.webp",
+      "assets/Gallery-28.webp",
+      "assets/Gallery-29.webp",
+      "assets/Gallery-30.webp",
+      "assets/Gallery-31.webp",
+      "assets/Gallery-32.webp",
+      "assets/Gallery-33.webp",
+      "assets/Gallery-34.webp"
     ],
     "team": []
   },
@@ -971,7 +1131,7 @@
       "title": "Парикмахер-технолог-колорист Анастасия Князева, парикмахерская, Чкаловская ул., 3, Щёлково — Яндекс Карты",
       "heading": "Парикмахер-технолог-колорист Анастасия Князева",
       "meta": "Парикмахерская «Парикмахер-технолог-колорист Анастасия Князева» — «Хорошее место» по оценкам пользователей — по адресу Московская область, Щёлково, Чкаловская улица, 3, ☎️ +7 915 148 05 72. Читать 49 отзывов, смотреть 185 фото, панорамы, часы работы. Посмотреть входы на карте и построить маршрут в Яндекс Картах.",
-      "text": "Поиск\nМаршруты\nКарты · Щёлково · Парикмахерские\nПарикмахер-технолог-колорист Анастасия Князева\nРейтинг \n5,0\n52 оценки\nНаграды:\nХорошее место 2026\nОткрыто до 20:00\n+7 (915) 148-05-72\nПоказать телефон\nЧкаловская ул., 3, Щёлково\nМаршрут\nДобавить фото или видео\nЕще 188\nОбзор\nТовары и услуги\nФото\n198\nОтзывы\n49\nОсобенности\nПохожие места\nТовары и услуги\nДавно не обновлялось\nСтрижка женская\n10 см\n1800 ₽\nМужская стрижка\n1200 ₽\nСтрижка детская\n0+\n1000 ₽\nПосмотреть все товары и услуги\nАдрес\nЧкаловская ул., 3, Щёлково\nПоказать входыМаршрут\nКонтакты\nПРИНИМАЮ СТРОГО ПО ЗАПИСИ\n+7 (915) 148-05-72\nПоказать телефон\nВремя работы\nОткрыто до 20:00\nГрафик\nИсправить неточность\nПохожие места\nСмотреть все\nВходит в подборки\nПодборка  ·  7 мест\nМодные стрижки: парикмахерские в Щёлково с наградой «Хорошее место 2026»\nХорошее место\nПодборка  ·  4 места\nСалоны красоты и парикмахерские в Щёлково: профессиональные колористы\nЯндекс Карты\nПодборка  ·  6 мест\nСалоны красоты с услугами окрашивания в мкр. Щёлково-3 (Щёлково)\nЯндекс Карты\nПодборка  ·  50 мест\nСалоны красоты и барбершопы в Щёлково: где сделать стрижку\nЯндекс Карты\nПодборка  ·  4 места\nСалоны красоты и парикмахерские в Щёлково: уход за волосами\nЯндекс Карты\nКак добраться\nПлатформа Гагаринская\n340 м\n4\nПоказать парковки\nОсобенности\nПарикмахерская\nПредварительная запись\nСалон для кудрявых\nЦена женской стрижки:1600–2500 ₽\nЦена мужской стрижки:1000–1000 ₽\nПарикмахерские услуги:контуринг волос, брондирование, сложное окрашивание, прически с канекалоном, укладка, цветные пряди, уходовые процедуры для волос, омбре, локоны/керли, стрижка, тонирование, французские косички, лечение волос, окрашивание, плетение из собственных волос, мелирование, осветление , колорирование, для детей\nСпособ оплаты:банковским переводом, наличными\nДоступность входа на инвалидной коляске:недоступно\nПодробнее об организации\nПанорама\nПанорама\nВладелец следит за актуальностью информации\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n49 отзывов\nПо умолчанию\nПерсонал ·\n100%\nположительный\n44 отзыва\nКомпетентность ·\n100%\nположительный\n33 отзыва\nОкрашивание волос ·\n100%\nположительный\n24 отзыва\nСтрижка ·\n100%\nположительный\n18 отзывов\nАлена К.\nЗнаток города 6 уровня\nПодписаться\n26 июня\nХочу от всей души поблагодарить мастера Анастасию! Очень переживала перед окрашиванием — до этого несколько раз сталкивалась с неудачными опытами. Анастасия внимательно выслушала все мои пожелания, подробно всё объяснила и дала профессиональный совет — я к нему прислушалась, и не зря. В итоге цвет получился даже лучше, чем я ожидала: оттенки гармонично легли, переходы вышли плавными, а волосы выглядят здоровыми и блестящими. Спасибо за чуткость и высокий профессионализм! Теперь я точно знаю, к кому идти за красотой 😍\nПосмотреть ответ организации\nЛёся\nЗнаток города 4 уровня\nПодписаться\n12 апреля\nХочу выразить огромную благодарность Анастасии за потрясающую работу 🌸\nЭто был мой первый опыт сложного окрашивания, и я осталась максимально довольна результатом! 🙏 Мастер внимательно выслушала все мои пожелания, подробно объяснила, какой результат получится, посоветовала оттенок, который подойдёт именно мне, рассказала нюансы домашнего ухода за окрашенными волосами. Образ получился просто вау 😍🔥\n\nПосмотреть ответ организации\nnhl\nЗнаток города 6 уровня\nПодписаться\n24 апреля\nНужна была стрижка на длинные волосы, очень долго искал мастера и боялся что вновь подстригут не так\nНо вот спустя несколько лет мне всё же повезло найти своего парикмахера) Подстригли идеально и ровно как мне хотелось. Ну и классные советы по укладке и уходу которые мне подошли, так что крайне настаиваю на посещении\nПосмотреть ответ организации\nПосмотреть все 49 отзывов\nРазместить рекламу\nСообщить об ошибке\nСправка\nСервисы\nМаршруты\nПробки\nРедактор Яндекс Карт\nСхема Метро\nСоздать карту\nAPI Карт\nПерсональное\nЗакладки и мой транспорт\nМои отзывы\nМои карты\nНастройки\nДля бизнеса\nЛичный кабинет\nРеклама в Картах\nДобавить свою организацию\nО сервисе\nПользовательское соглашение\nМобильное приложение\nПравила рекомендаций\nЯндекс Карты — выбирайте, где поесть, куда сходить, чем заняться.\n© 2001–2026 ООО «Яндекс»\nИсточник данных",
+      "text": "Поиск\nМаршруты\nКарты · Щёлково · Парикмахерские\nПарикмахер-технолог-колорист Анастасия Князева\nРейтинг \n5,0\n52 оценки\nНаграды:\nХорошее место 2026\nОткрыто до 20:00\n+7 (915) 148-05-72\nПоказать телефон\nЧкаловская ул., 3, Щёлково\nСохранить\nМаршрут\nДобавить фото или видео\nЕще 188\nОбзор\nТовары и услуги\nФото\n198\nОтзывы\n49\nОсобенности\nПохожие места\nТовары и услуги\nДавно не обновлялось\nСтрижка женская\n10 см\n1800 ₽\nМужская стрижка\n1200 ₽\nСтрижка детская\n0+\n1000 ₽\nПосмотреть все товары и услуги\nАдрес\nЧкаловская ул., 3, Щёлково\nПоказать входыМаршрут\nКонтакты\nПРИНИМАЮ СТРОГО ПО ЗАПИСИ\n+7 (915) 148-05-72\nПоказать телефон\nВремя работы\nОткрыто до 20:00\nГрафик\nИсправить неточность\nПохожие места\nСмотреть все\nВходит в подборки\nПодборка  ·  43 места\nСалоны красоты в Щёлково с услугой окрашивания волос\nЯндекс Карты\nПодборка  ·  22 места\nСалоны красоты и барбершопы с стрижкой в мкр. Щёлково‑3 (Щёлково)\nЯндекс Карты\nПодборка  ·  4 места\nСалоны красоты и парикмахерские в Щёлково: профессиональные колористы\nЯндекс Карты\nПодборка  ·  6 мест\nСалоны красоты с услугами окрашивания в мкр. Щёлково-3 (Щёлково)\nЯндекс Карты\nПодборка  ·  4 места\nСалоны красоты и парикмахерские в Щёлково: уход за волосами\nЯндекс Карты\nКак добраться\nПлатформа Гагаринская\n340 м\n4\nПоказать парковки\nОсобенности\nПарикмахерская\nПредварительная запись\nСалон для кудрявых\nЦена женской стрижки:1600–2500 ₽\nЦена мужской стрижки:1000–1000 ₽\nПарикмахерские услуги:контуринг волос, брондирование, сложное окрашивание, прически с канекалоном, укладка, цветные пряди, уходовые процедуры для волос, омбре, локоны/керли, стрижка, тонирование, французские косички, лечение волос, окрашивание, плетение из собственных волос, мелирование, осветление , колорирование, для детей\nСпособ оплаты:банковским переводом, наличными\nДоступность входа на инвалидной коляске:недоступно\nПодробнее об организации\nПанорама\nПанорама\nВладелец следит за актуальностью информации\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n49 отзывов\nПо умолчанию\nПерсонал ·\n100%\nположительный\n46 отзывов\nКомпетентность ·\n100%\nположительный\n33 отзыва\nОкрашивание волос ·\n100%\nположительный\n24 отзыва\nСтрижка ·\n100%\nположительный\n18 отзывов\nАлена К.\nЗнаток города 6 уровня\nПодписаться\n26 июня\nХочу от всей души поблагодарить мастера Анастасию! Очень переживала перед окрашиванием — до этого несколько раз сталкивалась с неудачными опытами. Анастасия внимательно выслушала все мои пожелания, подробно всё объяснила и дала профессиональный совет — я к нему прислушалась, и не зря. В итоге цвет получился даже лучше, чем я ожидала: оттенки гармонично легли, переходы вышли плавными, а волосы выглядят здоровыми и блестящими. Спасибо за чуткость и высокий профессионализм! Теперь я точно знаю, к кому идти за красотой 😍\nПосмотреть ответ организации\nЛёся\nЗнаток города 4 уровня\nПодписаться\n12 апреля\nХочу выразить огромную благодарность Анастасии за потрясающую работу 🌸\nЭто был мой первый опыт сложного окрашивания, и я осталась максимально довольна результатом! 🙏 Мастер внимательно выслушала все мои пожелания, подробно объяснила, какой результат получится, посоветовала оттенок, который подойдёт именно мне, рассказала нюансы домашнего ухода за окрашенными волосами. Образ получился просто вау 😍🔥\n\nПосмотреть ответ организации\nnhl\nЗнаток города 6 уровня\nПодписаться\n24 апреля\nНужна была стрижка на длинные волосы, очень долго искал мастера и боялся что вновь подстригут не так\nНо вот спустя несколько лет мне всё же повезло найти своего парикмахера) Подстригли идеально и ровно как мне хотелось. Ну и классные советы по укладке и уходу которые мне подошли, так что крайне настаиваю на посещении\nПосмотреть ответ организации\nПосмотреть все 49 отзывов\nРазместить рекламу\nСообщить об ошибке\nСправка\nСервисы\nМаршруты\nПробки\nРедактор Яндекс Карт\nСхема Метро\nСоздать карту\nAPI Карт\nПерсональное\nЗакладки и мой транспорт\nМои отзывы\nМои карты\nНастройки\nДля бизнеса\nЛичный кабинет\nРеклама в Картах\nДобавить свою организацию\nО сервисе\nПользовательское соглашение\nМобильное приложение\nПравила рекомендаций\nЯндекс Карты — выбирайте, где поесть, куда сходить, чем заняться.\n© 2001–2026 ООО «Яндекс»\nИсточник данных",
       "links": [
         {
           "text": "Маршруты",
@@ -1022,8 +1182,12 @@
           "href": "https://t.me/Akniazeva_kolorist"
         },
         {
-          "text": "Модные стрижки: парикмахерские в Щёлково с наградой «Хорошее место 2026»",
-          "href": "https://yandex.ru/maps/discovery/khoroshee-mesto_parikmakherskaya_shhyolkovo-10765/"
+          "text": "Салоны красоты в Щёлково с услугой окрашивания волос",
+          "href": "https://yandex.ru/maps/discovery/podborka_krasota_okrashivanie_shhyolkovo-10765/"
+        },
+        {
+          "text": "Салоны красоты и барбершопы с стрижкой в мкр. Щёлково‑3 (Щёлково)",
+          "href": "https://yandex.ru/maps/discovery/podborka_krasota_strizhka_mkr-shhyolkovo-3-shhyolkovo-10765/"
         },
         {
           "text": "Салоны красоты и парикмахерские в Щёлково: профессиональные колористы",
@@ -1032,10 +1196,6 @@
         {
           "text": "Салоны красоты с услугами окрашивания в мкр. Щёлково-3 (Щёлково)",
           "href": "https://yandex.ru/maps/discovery/podborka_krasota_okrashivanie_mkr-shhyolkovo-3-shhyolkovo-10765/"
-        },
-        {
-          "text": "Салоны красоты и барбершопы в Щёлково: где сделать стрижку",
-          "href": "https://yandex.ru/maps/discovery/podborka_krasota_strizhka_shhyolkovo-10765/"
         },
         {
           "text": "Салоны красоты и парикмахерские в Щёлково: уход за волосами",
@@ -1221,7 +1381,7 @@
       "title": "Отзывы о «Парикмахер-технолог-колорист Анастасия Князева», Московская область, Щёлково, Чкаловская улица, 3 — Яндекс Карты",
       "heading": "Парикмахер-технолог-колорист Анастасия Князева",
       "meta": "Рейтинг 5,0 на основе 52 оценок и 49 отзывов о парикмахерской «Парикмахер-технолог-колорист Анастасия Князева», Московская область, Щёлково, Чкаловская улица, 3. Посетителям нравятся персонал, компетентность и окрашивание волос. Награды: «Хорошее место 2026». Напишите свой отзыв о парикмахерской.",
-      "text": "Поиск\nМаршруты\nПарикмахер-технолог-колорист Анастасия Князева\nОбзор\nТовары и услуги\nФото\n198\nОтзывы\n49\nОсобенности\nПохожие места\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n49 отзывов\nПо умолчанию\nПерсонал ·\n100%\nположительный\n44 отзыва\nКомпетентность ·\n100%\nположительный\n33 отзыва\nОкрашивание волос ·\n100%\nположительный\n24 отзыва\nСтрижка ·\n100%\nположительный\n18 отзывов\nАлена К.\nЗнаток города 6 уровня\nПодписаться\n26 июня\nХочу от всей души поблагодарить мастера Анастасию! Очень переживала перед окрашиванием — до этого несколько раз сталкивалась с неудачными опытами. Анастасия внимательно выслушала все мои пожелания, подробно всё объяснила и дала профессиональный совет — я к нему прислушалась, и не зря. В итоге цвет получился даже лучше, чем я ожидала: оттенки гармонично легли, переходы вышли плавными, а волосы выглядят здоровыми и блестящими. Спасибо за чуткость и высокий профессионализм! Теперь я точно знаю, к кому идти за красотой 😍\nПосмотреть ответ организации\nЛёся\nЗнаток города 4 уровня\nПодписаться\n12 апреля\nХочу выразить огромную благодарность Анастасии за потрясающую работу 🌸\nЭто был мой первый опыт сложного окрашивания, и я осталась максимально довольна результатом! 🙏 Мастер внимательно выслушала все мои пожелания, подробно объяснила, какой результат получится, посоветовала оттенок, который подойдёт именно мне, рассказала нюансы домашнего ухода за окрашенными волосами. Образ получился просто вау 😍🔥\n\nПосмотреть ответ организации\nnhl\nЗнаток города 6 уровня\nПодписаться\n24 апреля\nНужна была стрижка на длинные волосы, очень долго искал мастера и боялся что вновь подстригут не так\nНо вот спустя несколько лет мне всё же повезло найти своего парикмахера) Подстригли идеально и ровно как мне хотелось. Ну и классные советы по укладке и уходу которые мне подошли, так что крайне настаиваю на посещении\nПосмотреть ответ организации\nЮлия\nЗнаток города 3 уровня\nПодписаться\n2 июня\nБыла у Анастасии впервые, осталась в восторге от результата! Это был выход из многолетнего темного цвета - я уже не надеялась, что получится что-то сделать, кроме как отращивать, потому что мой натуральный намного светлее. Смывка, уход и тонирование - шикарный результат и без потери качества, именно так, как я и хотела! Я в полном восторге и очень благодарна!\nПосмотреть ответ организации\nАлёна Резакова\nЗнаток города 3 уровня\nПодписаться\n10 августа\nДелали стрижку и цветное окрашивание. Все очень понравилось. Уютный и комфортный салон. Анастасия все подробно объяснила и рассказала, дала квалифицированные советы как лучше сделать. Были учтены все пожелания по стрижке и окрашиванию. Очень советую!\nПосмотреть ответ организации\nАнна Юрьевна\nЗнаток города 5 уровня\nПодписаться\n17 июня\nБыла у Анастасии впервые, ориентировалась на отзывы, и не пожалела. Она профессионал своего дела, видно что любит свою работу, так как делает ее качественно. Делала окрашивание в технике аиртач и стрижку, довольна я и окружающие тоже оценили. Жаль только фото не передает цвет. Однозначно рекомендую.\nПосмотреть ответ организации\nЕлизавета Фандеева\nЗнаток города 6 уровня\nПодписаться\n28 августа 2025\nТак, ну что ж, приступим)) по пунктам распишу.\n1. Мастер просто огонь!\n2. Очень приятный душевный человек, разносторонний и интересный. Поговорить можно о чем угодно.\n3. В салоне чисто, свежо, светло, кофеек, чаек, конфетки, прекрасная музыка- полный набор для отличного настроения.\n4. Что было важно для меня, мастер слушает и слышит то, что ты ему говоришь, учитывает все пожелания, предлагает лучшие варианты, все рассказывает поэтапно, на все вопросы отвечает, посоветовала отличный уход за волосами приемлемой цены. Дала ещё несколько дельных советов как быстрее отрастить и улучшить состояние волос.\n5. Для такого тревожного человека как я было трудно решиться на такую процедуру, волосы были в ужасном состоянии, после ожогов головы и операции все посыпались и вот то, что я с трудом отрастила я и доверила Насте. И не пожалела ни на секунду! С тёмных волос 5ого уровня цвета я соизволила желать не что-нибудь, а блонд, хотя конечно понимала, что это мечты. Мы обсудили, что можно сделать, чтобы я снова не облысела и при этом осталась довольна результатом и мы приступили к самому действу.\n6. Настя работает быстро, качественно и абсолютно не ощущаешь времени. Пять часов пролетели как час, я даже удивилась, обычно жутко мучаюсь на долгих процедурах, а тут вшух и все.\n7. Не знаю, как для других, но меня покорило окончательно то, что мне ни разу за всю процедуру не поправляли голову, я держала ее, как хотела. Обычно всегда шея затекает и начинает болеть от постоянной смены положения и длительного нахождения в неудобной позе. Тут же я была очень удивлена, мастер сам ходил вокруг, аккуратно вращал кресло и всё было плавно и легко.\n8. Ну и последнее, я рада. По настоящему рада, я понимала, что ждать при моем качестве волос чудес не нужно, тем более, что мне отказали в пяти салонах, сказав, что не будут делать эту работу. Я отчаялась, но тут мне реально повезло. Результат получился чудесный. Настя ты прекрасна! Спасибо!\n1\nПосмотреть ответ организации\nГоряинова Марина\nЗнаток города 8 уровня\nПодписаться\n20 мая\nБлагодарю Анастасию за прекрасную работу. Делала уход и тонирование. Полностью доверилась Анастасии в выборе оттенка при окрашивании и не пожалела. Чувствуется рука мастера, после посещения салона собрала все комплименты. В салоне приятная атмосфера, чистота, рекомендую, спасибо 🙏💕\nПосмотреть ответ организации\nВероника С.\nЗнаток города 4 уровня\nПодписаться\n24 марта\n\n\nНевероятно талантливая мастер! 💇‍♀️🎨 Настя сотворила настоящее чудо с моими волосами! 😍 Её золотые руки подарили моим локонам новую жизнь благодаря процедуре восстановления волос. Теперь мои волосы выглядят здоровыми, блестящими и ухоженными. ❤️✨\n\nНастя обладает невероятным вкусом и чувством стиля. Она смогла подобрать идеальный образ, учитывая особенности моих волос и предпочтения. 🌸🔥 Особое внимание хочу уделить её профессиональному подходу и внимательному отношению к каждому клиенту. 👏\n\nКроме того, Настя сама невероятно красивая девушка с потрясающей внешностью и доброй душой. 🦋💖 Её улыбка и позитив заряжают энергией на целый день! Спасибо большое за волшебство и заботу! 🙏\n\nРекомендую всем посетить этого мастера! Вы останетесь довольны результатом! ✨👑\nПосмотреть ответ организации\nАнна\nЗнаток города 4 уровня\nПодписаться\n3 марта\nАнастасия профессионал. Придя на маникюр, я параллельно наблюдала за работой Анастасии. Мне показалось она очень грамотно все делает, стрижки и окрашивания-не оторвать глаз. После консультации, решили начать восстанавливать мои убитые от блонда и утюжка волосы. Первый уход-увлажнение зашел на 200%. Волос стал струящийся, тяжеленький, таких волос у меня не было никогда, потому как с рождения волосы мои пористые, волнистые, легкие. Сделали еще уход с другим эффектом-300%. Сделали стрижку 🤩. Затем я приняла решение обновить окрашивание. Получила чистый (наконец-то) блонд. Волосы живы, здоровы))) потому, что Анастасия знает как сохранить качество при окрашивании. Будем лечить, отращивать длину, снова стричь 😁 и красить дальше🤗 Спасибо!🦋\nПосмотреть ответ организации\nИрэн\nЗнаток города 5 уровня\nПодписаться\n4 июля 2025\nХотелось бы выразить благодарность отличному парикмахеру ,стилисту,колористу Князевой Анастасии, за чуткое и внимательное отношение к клиенту. Анастасия просто Мастер своего дела с большой буквы. Главное для нее-слышать клиента и делать максимум для достижения результата,при этом сохраняя качество волос.Шикарный уход для поврежденных волос.Окрашивание именно в тот тон,который пожелаешь.\nПомимо прекрасной работы бонусом идет приятное общение. Теперь +1 постоянный клиент)) Спасибо\n1\nПосмотреть ответ организации\nОльга Э.\nЗнаток города 4 уровня\nПодписаться\n15 сентября 2025\nХожу к моему любимому парикмахеру Анастасии не первый год. Помимо высокого профессионализма - она прекрасно может подобрать оттенки, которые нужны, сделать форму прически именно то, что мне нужно - она ещё и прекрасный интересный добрый искренний человек. Очень внимательна к деталям, всегда умеет мне поднять настроение и зарядить на весь день! Побольше бы таких профессионалов и хороших людей в одном флаконе!) ❤️\n\nПосмотреть ответ организации\nВиктория Ивченко\nЗнаток города 5 уровня\nПодписаться\n25 августа 2025\nПовезло найти и познакомиться с Анастасией. Она прекрасный мастер,добросовестная , внимательная, чуткая, пунктуальная , аккуратная .\nОчень профессионально подходит к любой сложности окрашивания, всегда посоветует как лучше, подбирает очень точный цвет который действительно подойдёт человеку. Приятный собеседник с ней легко и просто время пролитает незаметно .Любой каприз будет воплощен в жизнь. Посоветует чем и как ухаживать дома. Всегда предложит кофе/чай с вкусняшками.\nСоветую и рекомендую Анастасию своим близким друзьям.\n1\nПосмотреть ответ организации\nЛана\nЗнаток города 3 уровня\nПодписаться\n29 июля\nНастя- Профессионал с Большой буквы.И человек с большой душой.Мое простое окрашивание в один тон превратилось в работу Мастера,который не может допустить такой халтуры.В результате я вышла с живыми, блестящими,бликующими волосами.Такого офигенного результата я не получала ни с одним парикмахером. Мастер с золотыми руками,с изысканным вкусом и владеющий сложными методами окрашивания.Супер!\nПосмотреть ответ организации\nКира\nЗнаток города 5 уровня\nПодписаться\n8 января\nПрекрасный мастер, сделала то, что не могли другие на моих волосах, исправила чужие ошибки. Мастер прекрасно чувствует настроение клиента. Вы получите не только прекрасное окрашивание и уход, но и в свое удовольствие проведёте несколько часов. Большое спасибо!\nПосмотреть ответ организации\nИрина Колесникова\nЗнаток города 4 уровня\nПодписаться\n2 сентября\nАнастасия прекрасный мастер, чуткий и профессиональный специалист с тонким вкусом и чувством цвета. Если хотите красивое окрашивание с сохранением качества волос, Вам точно сюда!\nПосмотреть ответ организации\nТатьяна К.\nЗнаток города 5 уровня\nПодписаться\n25 августа 2025\nАнастасия невероятная, приятная в общении девушка и прекрасный мастер своего дела.Хожу на стрижку,окрашивание и уход уже около года.Анастасия очень внимательно относится ко всем пожеланиям.Настоящий профессионал, от которого уходишь только с позитивными эмоциями.Очень рекомендую!\n1\nПосмотреть ответ организации\nТатьяна С.\nЗнаток города 3 уровня\nПодписаться\n26 июня 2025\nНастя-моя любимый мастер с самого переезда в этот район! Всегда посоветует как будет лучше, красивее по цвету или стрижке. Сама по себе очень приятная в общении девушка, деликатная, не навязывает свои услуги! Рекомендую! Фото с последнего визита к ней прилагаю\n1\nПосмотреть ответ организации\nТатьяна Л.\nЗнаток города 4 уровня\nПодписаться\n18 августа 2025\nЯ очень рада, что нашла своего парикмахера колориста, Анастасия мастер своего дела. Учла все мои пожелания и воплотила в реальности, что я хотела. Очень внимательная к своим клиентам и заботливая. Советую как мастера на 100% и даже не раздумывайте! 🌷🌷🌷🥰\n2\nПосмотреть ответ организации\nАнастасия Абрикосова\nЗнаток города 3 уровня\nПодписаться\n1 июля 2025\nЕсли вы хотите, чтоб вам выполнили стрижку со всеми вашими запросами и желаниями, то вам точно к Анастасии! Ваши волосы в надежных руках) Консультация, приятная беседа и хороший сервис это то, что вы тут получите)) Сына тоже к Анастасии вожу) Доволен как слон)\n1\nПосмотреть ответ организации\nЕкатерина Бахтина\nЗнаток города 5 уровня\nПодписаться\n9 июля 2025\nАнастасия - феерист высокого профиля 🔥🔥🔥 Учтет все: все ваши пожелания, цветотип, овал лица, форму стрижки и т. д. Найти такого мастера, как иголку в стоге сена 💪. Я после наших встреч всегда ооочень довольна результатом, что стрижка или прическа на выход всегда выполняются на высоте🤗🔥 Настя, спасибо за твои волшебные ручки и креативный подход каждому клиенту, это здорово 🙌🌺🤗\n1\nПосмотреть ответ организации\nЕвгения Т.\nЗнаток города 3 уровня\nПодписаться\n30 декабря 2025\nБоже мой, ну что за золотые ручки у этого мастера!!! Попала к Анастасии случайно, ориентировалась по отзывам и ее работам!!! Все супер! Мастер работает быстро, четко и мягко. Ни какой небрежности или брезгливости в ее работе не увидела. Всем стесняшкам рекомендую!\nПосмотреть ответ организации\nМария Л.\nЗнаток города 4 уровня\nПодписаться\n6 апреля\nБыла у Анастасии впервые, очень понравился результат тонирования и стрижка, я осталась в восторге 😍 однозначно рекомендую мастера, как профессионала своего дела, и как приятного человека, с которым можно просто пообщаться 😊\n1\nПосмотреть ответ организации\nмарина к.\nЗнаток города 4 уровня\nПодписаться\n25 июня\nАнастасия крутой мастер!!! Делали доче короткую стрижку после длинных волос. Я, как мама, очень волновалась о результате. Анастасия сделала все, так хорошо, что теперь мы будем поддерживать результат только у неё! Спасибо! Гранд Рекомендасьен!\nПосмотреть ответ организации\nОльга Ф.\nЗнаток города 3 уровня\nПодписаться\n10 марта\nСалон новый, чистый, просторный. Комфортые умывальники для головы. Спасибо Анастасии за стрижку и уход за волосами! Однозначно рекомендую к посещению❣️\nПосмотреть ответ организации\nМ\nМарина Галафаст\nЗнаток города 3 уровня\nПодписаться\n29 августа 2025\nК мастеру Анастасии я хожу уже 5-й год . Настя большой профессионал своего дела . Она очень любит свою работу и поэтому все образы , которые она очень умело создает своими «золотыми ручками» меня всегда очень радуют и восхищают ! А еще Настя делает отлично брови . Подобрала мне тон и форму ! Спасибо Настя большое !\n1\nПосмотреть ответ организации\nАлександр\nЗнаток города 6 уровня\nПодписаться\n10 июля\n\nАнастасия — мастер своего дела! Подстригла аккуратно, быстро, учла все пожелания. Отдельно хочется отметить ее обаяние и приятную атмосферу. Я придирчивый, но тут даже не к чему придраться. Спасибо!\nПосмотреть ответ организации\nОльга О.\nЗнаток города 4 уровня\nПодписаться\n11 ноября 2025\nБлагодарю от всего сердца мастера Анастасию. Никогда не могла добиться такого цвета и состояния волос!Отличная работа!Я ооочень рада. Руки золотые!Спасибо 🤩😘огромное!!!Рекомендую этого мастера всем!!!\nПосмотреть ответ организации\nЕлена К.\nЗнаток города 3 уровня\nПодписаться\n1 августа 2025\nПрекрасный мастер,внимательно меня выслушала и сделала то что я хотела,много советов дала,большое ей спасибо!Приду еще!Советую!\n1\nПосмотреть ответ организации\nВиктория\nЗнаток города 4 уровня\nПодписаться\n26 января\nАнастасия - мастер своего дела! Очень внимательная, индивидуальный подход к волосам. Делали уход и стрижку, получилось отлично. Однозначно рекомендую!\nПосмотреть ответ организации\nЮлия К.\nЗнаток города 3 уровня\nПодписаться\n19 октября 2025\nНастя профессионал своего дела, хожу не первый год. К моим тонким волосам относится бережно, окрашивание и стрижка всегда на высоте. В салоне приятная и уютная атмосфера. Рада, что нашла своего мастера❤️\nПосмотреть ответ организации\nАнастасия С.\nЗнаток города 4 уровня\nПодписаться\n1 октября 2025\nАнастасия очень приятный человек, а атмосфера для меня важна. По процедуре окрашивания и стрижки все пожелания были учтены и соблюдались.\nПосмотреть ответ организации\nJ\nJess G.\nЗнаток города 2 уровня\nПодписаться\n2 сентября 2025\n\nОгромная благодарность Анастасии! 🌸🧡За труд, профессионализм, ответственное отношение к работе, и самое главное за ту красоту что она сотворила! Стрижка 💇‍♀️ супер! Рекомендую!!!! 🫶 Очень рада, что попала к такому мастеру!\nПосмотреть ответ организации\nТатьяна Зав\nЗнаток города 4 уровня\nПодписаться\n2 июля 2025\nПриятное место, высококвалифицированный специалист Анастасия, очень точно подбирает индивидуальные образы, грамотный колорист и умелые ручки!\n1\nПосмотреть ответ организации\nLudmila Panutina\nЗнаток города 6 уровня\nПодписаться\n20 июля 2025\nНастя, это большая молодец и находка для девушек которые хотят иметь красивые здоровые волосы , но при этом не нужно ехать в Москву и делать это за большие деньги!!! Настюша спасибо за то что ты есть здесь 🤗 всегда твой благородный клиент!\n1\nПосмотреть ответ организации\nВиктория Рубцова\nЗнаток города 2 уровня\nПодписаться\n2 октября 2025\nАнастасия знает, как угодить клиенту в его \"хотелках\" и получить отличный результат. Подскажет как будет лучше и посоветует уход! Работой мастера более, чем довольна\n1\nПосмотреть ответ организации\nТаня 🚘\nЗнаток города 9 уровня\nПодписаться\n26 июня 2025\nВсе супер! Мастер великолепный, огромное спасибо! Настоящий профессионал своего дела, очень приятное и деликатное отношение.Однозначно приду ещё!\n2\nПосмотреть ответ организации\nОльга Серебренникова\nЗнаток города 8 уровня\nПодписаться\n5 марта\nХожу к Анастасии уже не первый раз. Мне очень нравиться как результат, так и атмосфера .\nСменила много мастеров, пока остановилась и задержалась у Анастасии ❤️\nПосмотреть ответ организации\nЕкатерина А\nЗнаток города 4 уровня\nПодписаться\n4 июля 2025\nХочу выразить огромную благодарность Насте! Хожу к ней не первый год , все на высшем уровне сервис и услуги . Всем довольна спасибо большое 💋\n1\nПосмотреть ответ организации\nЕлена Тюкова\nЗнаток города 5 уровня\nПодписаться\n8 августа 2025\nМастер услышала все мои пожелания,посоветовала что мне пойдет)я очень довольна результатом…вернусь к Анастасии,и не раз…\n1\nПосмотреть ответ организации\nВиктория Е.\nЗнаток города 4 уровня\nПодписаться\n11 декабря 2025\nЗаписалась к Анастасии почитав отзывы и ни на грамм не пожалела) Осталась очень довольна всем! Замечательный мастер и человек) Спасибо большое)\nПосмотреть ответ организации\nИгорь О.\nЗнаток города 3 уровня\nПодписаться\n20 октября 2025\nАнастасия очень внимательно выслушала пожелания, посоветовала, объяснила как и что, осталась очень довольна. Обязательно вернусь и не раз😊\nПосмотреть ответ организации\nИрина Лебедева\nЗнаток города 3 уровня\n18 сентября 2025\nЧудесный мастер! \n\nДоброжелательная и внимательная.\n\nЗнает свое дело, может посоветовать как лучше сделать, как безопаснее для волос. При этом, учитывая желение клиента)))\n\nРезультатом очень довольна, бонусом получила полезные советы по уходу))\n\nСПАСИБО!)))\n\n\nПосмотреть ответ организации\nК В\nЗнаток города 3 уровня\nПодписаться\n28 июля 2025\nХожу уже больше полгода на окрашивание и уход волос. Всё отлично. Рекомендую\n1\nПосмотреть ответ организации\nК. Алекс.\nЗнаток города 23 уровня\n25 июня 2025\nХодим всей семьей, стрижем детей, стригусь я, жена ещё красит волосы. Все довольны . Рекомендуем\n1\nПосмотреть ответ организации\nЕкатерина Сафонова\nЗнаток города 2 уровня\nПодписаться\n12 октября 2025\nОтличный специалист! Рекомендую всем!\n1\nПосмотреть ответ организации\nNatali\nЗнаток города 5 уровня\n25 июня 2025\nЗамечательный мастер. Знает свое дело на все 100%. Рекомендую\n1\nПосмотреть ответ организации\nАнна Шмелева\nЗнаток города 4 уровня\nПодписаться\n12 июля 2025\nОчень понравилось ❤️❤️❤️ Все именно так, как хотела\n1\nПосмотреть ответ организации\nАлександра\nЗнаток города 6 уровня\n14 сентября 2025\nЗамечательный мастер, обязательно вернусь снова\nПосмотреть ответ организации\n1\n2\nНаписать отзыв",
+      "text": "Поиск\nМаршруты\nПарикмахер-технолог-колорист Анастасия Князева\nОбзор\nТовары и услуги\nФото\n198\nОтзывы\n49\nОсобенности\nПохожие места\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n49 отзывов\nПо умолчанию\nПерсонал ·\n100%\nположительный\n46 отзывов\nКомпетентность ·\n100%\nположительный\n33 отзыва\nОкрашивание волос ·\n100%\nположительный\n24 отзыва\nСтрижка ·\n100%\nположительный\n18 отзывов\nАлена К.\nЗнаток города 6 уровня\nПодписаться\n26 июня\nХочу от всей души поблагодарить мастера Анастасию! Очень переживала перед окрашиванием — до этого несколько раз сталкивалась с неудачными опытами. Анастасия внимательно выслушала все мои пожелания, подробно всё объяснила и дала профессиональный совет — я к нему прислушалась, и не зря. В итоге цвет получился даже лучше, чем я ожидала: оттенки гармонично легли, переходы вышли плавными, а волосы выглядят здоровыми и блестящими. Спасибо за чуткость и высокий профессионализм! Теперь я точно знаю, к кому идти за красотой 😍\nПосмотреть ответ организации\nЛёся\nЗнаток города 4 уровня\nПодписаться\n12 апреля\nХочу выразить огромную благодарность Анастасии за потрясающую работу 🌸\nЭто был мой первый опыт сложного окрашивания, и я осталась максимально довольна результатом! 🙏 Мастер внимательно выслушала все мои пожелания, подробно объяснила, какой результат получится, посоветовала оттенок, который подойдёт именно мне, рассказала нюансы домашнего ухода за окрашенными волосами. Образ получился просто вау 😍🔥\n\nПосмотреть ответ организации\nnhl\nЗнаток города 6 уровня\nПодписаться\n24 апреля\nНужна была стрижка на длинные волосы, очень долго искал мастера и боялся что вновь подстригут не так\nНо вот спустя несколько лет мне всё же повезло найти своего парикмахера) Подстригли идеально и ровно как мне хотелось. Ну и классные советы по укладке и уходу которые мне подошли, так что крайне настаиваю на посещении\nПосмотреть ответ организации\nЮлия\nЗнаток города 3 уровня\nПодписаться\n2 июня\nБыла у Анастасии впервые, осталась в восторге от результата! Это был выход из многолетнего темного цвета - я уже не надеялась, что получится что-то сделать, кроме как отращивать, потому что мой натуральный намного светлее. Смывка, уход и тонирование - шикарный результат и без потери качества, именно так, как я и хотела! Я в полном восторге и очень благодарна!\nПосмотреть ответ организации\nАлёна Резакова\nЗнаток города 3 уровня\nПодписаться\n10 августа\nДелали стрижку и цветное окрашивание. Все очень понравилось. Уютный и комфортный салон. Анастасия все подробно объяснила и рассказала, дала квалифицированные советы как лучше сделать. Были учтены все пожелания по стрижке и окрашиванию. Очень советую!\nПосмотреть ответ организации\nАнна Юрьевна\nЗнаток города 5 уровня\nПодписаться\n17 июня\nБыла у Анастасии впервые, ориентировалась на отзывы, и не пожалела. Она профессионал своего дела, видно что любит свою работу, так как делает ее качественно. Делала окрашивание в технике аиртач и стрижку, довольна я и окружающие тоже оценили. Жаль только фото не передает цвет. Однозначно рекомендую.\nПосмотреть ответ организации\nЕлизавета Фандеева\nЗнаток города 6 уровня\nПодписаться\n28 августа 2025\nТак, ну что ж, приступим)) по пунктам распишу.\n1. Мастер просто огонь!\n2. Очень приятный душевный человек, разносторонний и интересный. Поговорить можно о чем угодно.\n3. В салоне чисто, свежо, светло, кофеек, чаек, конфетки, прекрасная музыка- полный набор для отличного настроения.\n4. Что было важно для меня, мастер слушает и слышит то, что ты ему говоришь, учитывает все пожелания, предлагает лучшие варианты, все рассказывает поэтапно, на все вопросы отвечает, посоветовала отличный уход за волосами приемлемой цены. Дала ещё несколько дельных советов как быстрее отрастить и улучшить состояние волос.\n5. Для такого тревожного человека как я было трудно решиться на такую процедуру, волосы были в ужасном состоянии, после ожогов головы и операции все посыпались и вот то, что я с трудом отрастила я и доверила Насте. И не пожалела ни на секунду! С тёмных волос 5ого уровня цвета я соизволила желать не что-нибудь, а блонд, хотя конечно понимала, что это мечты. Мы обсудили, что можно сделать, чтобы я снова не облысела и при этом осталась довольна результатом и мы приступили к самому действу.\n6. Настя работает быстро, качественно и абсолютно не ощущаешь времени. Пять часов пролетели как час, я даже удивилась, обычно жутко мучаюсь на долгих процедурах, а тут вшух и все.\n7. Не знаю, как для других, но меня покорило окончательно то, что мне ни разу за всю процедуру не поправляли голову, я держала ее, как хотела. Обычно всегда шея затекает и начинает болеть от постоянной смены положения и длительного нахождения в неудобной позе. Тут же я была очень удивлена, мастер сам ходил вокруг, аккуратно вращал кресло и всё было плавно и легко.\n8. Ну и последнее, я рада. По настоящему рада, я понимала, что ждать при моем качестве волос чудес не нужно, тем более, что мне отказали в пяти салонах, сказав, что не будут делать эту работу. Я отчаялась, но тут мне реально повезло. Результат получился чудесный. Настя ты прекрасна! Спасибо!\n1\nПосмотреть ответ организации\nГоряинова Марина\nЗнаток города 8 уровня\nПодписаться\n20 мая\nБлагодарю Анастасию за прекрасную работу. Делала уход и тонирование. Полностью доверилась Анастасии в выборе оттенка при окрашивании и не пожалела. Чувствуется рука мастера, после посещения салона собрала все комплименты. В салоне приятная атмосфера, чистота, рекомендую, спасибо 🙏💕\nПосмотреть ответ организации\nВероника С.\nЗнаток города 4 уровня\nПодписаться\n24 марта\n\n\nНевероятно талантливая мастер! 💇‍♀️🎨 Настя сотворила настоящее чудо с моими волосами! 😍 Её золотые руки подарили моим локонам новую жизнь благодаря процедуре восстановления волос. Теперь мои волосы выглядят здоровыми, блестящими и ухоженными. ❤️✨\n\nНастя обладает невероятным вкусом и чувством стиля. Она смогла подобрать идеальный образ, учитывая особенности моих волос и предпочтения. 🌸🔥 Особое внимание хочу уделить её профессиональному подходу и внимательному отношению к каждому клиенту. 👏\n\nКроме того, Настя сама невероятно красивая девушка с потрясающей внешностью и доброй душой. 🦋💖 Её улыбка и позитив заряжают энергией на целый день! Спасибо большое за волшебство и заботу! 🙏\n\nРекомендую всем посетить этого мастера! Вы останетесь довольны результатом! ✨👑\nПосмотреть ответ организации\nАнна\nЗнаток города 4 уровня\nПодписаться\n3 марта\nАнастасия профессионал. Придя на маникюр, я параллельно наблюдала за работой Анастасии. Мне показалось она очень грамотно все делает, стрижки и окрашивания-не оторвать глаз. После консультации, решили начать восстанавливать мои убитые от блонда и утюжка волосы. Первый уход-увлажнение зашел на 200%. Волос стал струящийся, тяжеленький, таких волос у меня не было никогда, потому как с рождения волосы мои пористые, волнистые, легкие. Сделали еще уход с другим эффектом-300%. Сделали стрижку 🤩. Затем я приняла решение обновить окрашивание. Получила чистый (наконец-то) блонд. Волосы живы, здоровы))) потому, что Анастасия знает как сохранить качество при окрашивании. Будем лечить, отращивать длину, снова стричь 😁 и красить дальше🤗 Спасибо!🦋\nПосмотреть ответ организации\nИрэн\nЗнаток города 5 уровня\nПодписаться\n4 июля 2025\nХотелось бы выразить благодарность отличному парикмахеру ,стилисту,колористу Князевой Анастасии, за чуткое и внимательное отношение к клиенту. Анастасия просто Мастер своего дела с большой буквы. Главное для нее-слышать клиента и делать максимум для достижения результата,при этом сохраняя качество волос.Шикарный уход для поврежденных волос.Окрашивание именно в тот тон,который пожелаешь.\nПомимо прекрасной работы бонусом идет приятное общение. Теперь +1 постоянный клиент)) Спасибо\n1\nПосмотреть ответ организации\nОльга Э.\nЗнаток города 4 уровня\nПодписаться\n15 сентября 2025\nХожу к моему любимому парикмахеру Анастасии не первый год. Помимо высокого профессионализма - она прекрасно может подобрать оттенки, которые нужны, сделать форму прически именно то, что мне нужно - она ещё и прекрасный интересный добрый искренний человек. Очень внимательна к деталям, всегда умеет мне поднять настроение и зарядить на весь день! Побольше бы таких профессионалов и хороших людей в одном флаконе!) ❤️\n\nПосмотреть ответ организации\nВиктория Ивченко\nЗнаток города 5 уровня\nПодписаться\n25 августа 2025\nПовезло найти и познакомиться с Анастасией. Она прекрасный мастер,добросовестная , внимательная, чуткая, пунктуальная , аккуратная .\nОчень профессионально подходит к любой сложности окрашивания, всегда посоветует как лучше, подбирает очень точный цвет который действительно подойдёт человеку. Приятный собеседник с ней легко и просто время пролитает незаметно .Любой каприз будет воплощен в жизнь. Посоветует чем и как ухаживать дома. Всегда предложит кофе/чай с вкусняшками.\nСоветую и рекомендую Анастасию своим близким друзьям.\n1\nПосмотреть ответ организации\nЛана\nЗнаток города 3 уровня\nПодписаться\n29 июля\nНастя- Профессионал с Большой буквы.И человек с большой душой.Мое простое окрашивание в один тон превратилось в работу Мастера,который не может допустить такой халтуры.В результате я вышла с живыми, блестящими,бликующими волосами.Такого офигенного результата я не получала ни с одним парикмахером. Мастер с золотыми руками,с изысканным вкусом и владеющий сложными методами окрашивания.Супер!\nПосмотреть ответ организации\nКира\nЗнаток города 5 уровня\nПодписаться\n8 января\nПрекрасный мастер, сделала то, что не могли другие на моих волосах, исправила чужие ошибки. Мастер прекрасно чувствует настроение клиента. Вы получите не только прекрасное окрашивание и уход, но и в свое удовольствие проведёте несколько часов. Большое спасибо!\nПосмотреть ответ организации\nИрина Колесникова\nЗнаток города 4 уровня\nПодписаться\n2 сентября\nАнастасия прекрасный мастер, чуткий и профессиональный специалист с тонким вкусом и чувством цвета. Если хотите красивое окрашивание с сохранением качества волос, Вам точно сюда!\nПосмотреть ответ организации\nТатьяна К.\nЗнаток города 5 уровня\nПодписаться\n25 августа 2025\nАнастасия невероятная, приятная в общении девушка и прекрасный мастер своего дела.Хожу на стрижку,окрашивание и уход уже около года.Анастасия очень внимательно относится ко всем пожеланиям.Настоящий профессионал, от которого уходишь только с позитивными эмоциями.Очень рекомендую!\n1\nПосмотреть ответ организации\nТатьяна С.\nЗнаток города 3 уровня\nПодписаться\n26 июня 2025\nНастя-моя любимый мастер с самого переезда в этот район! Всегда посоветует как будет лучше, красивее по цвету или стрижке. Сама по себе очень приятная в общении девушка, деликатная, не навязывает свои услуги! Рекомендую! Фото с последнего визита к ней прилагаю\n1\nПосмотреть ответ организации\nТатьяна Л.\nЗнаток города 4 уровня\nПодписаться\n18 августа 2025\nЯ очень рада, что нашла своего парикмахера колориста, Анастасия мастер своего дела. Учла все мои пожелания и воплотила в реальности, что я хотела. Очень внимательная к своим клиентам и заботливая. Советую как мастера на 100% и даже не раздумывайте! 🌷🌷🌷🥰\n2\nПосмотреть ответ организации\nАнастасия Абрикосова\nЗнаток города 3 уровня\nПодписаться\n1 июля 2025\nЕсли вы хотите, чтоб вам выполнили стрижку со всеми вашими запросами и желаниями, то вам точно к Анастасии! Ваши волосы в надежных руках) Консультация, приятная беседа и хороший сервис это то, что вы тут получите)) Сына тоже к Анастасии вожу) Доволен как слон)\n1\nПосмотреть ответ организации\nЕкатерина Бахтина\nЗнаток города 5 уровня\nПодписаться\n9 июля 2025\nАнастасия - феерист высокого профиля 🔥🔥🔥 Учтет все: все ваши пожелания, цветотип, овал лица, форму стрижки и т. д. Найти такого мастера, как иголку в стоге сена 💪. Я после наших встреч всегда ооочень довольна результатом, что стрижка или прическа на выход всегда выполняются на высоте🤗🔥 Настя, спасибо за твои волшебные ручки и креативный подход каждому клиенту, это здорово 🙌🌺🤗\n1\nПосмотреть ответ организации\nЕвгения Т.\nЗнаток города 3 уровня\nПодписаться\n30 декабря 2025\nБоже мой, ну что за золотые ручки у этого мастера!!! Попала к Анастасии случайно, ориентировалась по отзывам и ее работам!!! Все супер! Мастер работает быстро, четко и мягко. Ни какой небрежности или брезгливости в ее работе не увидела. Всем стесняшкам рекомендую!\nПосмотреть ответ организации\nАлександр\nЗнаток города 6 уровня\nПодписаться\n10 июля\n\nАнастасия — мастер своего дела! Подстригла аккуратно, быстро, учла все пожелания. Отдельно хочется отметить ее обаяние и приятную атмосферу. Я придирчивый, но тут даже не к чему придраться. Спасибо!\nПосмотреть ответ организации\nМария Л.\nЗнаток города 4 уровня\nПодписаться\n6 апреля\nБыла у Анастасии впервые, очень понравился результат тонирования и стрижка, я осталась в восторге 😍 однозначно рекомендую мастера, как профессионала своего дела, и как приятного человека, с которым можно просто пообщаться 😊\n1\nПосмотреть ответ организации\nмарина к.\nЗнаток города 4 уровня\nПодписаться\n25 июня\nАнастасия крутой мастер!!! Делали доче короткую стрижку после длинных волос. Я, как мама, очень волновалась о результате. Анастасия сделала все, так хорошо, что теперь мы будем поддерживать результат только у неё! Спасибо! Гранд Рекомендасьен!\nПосмотреть ответ организации\nОльга Ф.\nЗнаток города 3 уровня\nПодписаться\n10 марта\nСалон новый, чистый, просторный. Комфортые умывальники для головы. Спасибо Анастасии за стрижку и уход за волосами! Однозначно рекомендую к посещению❣️\nПосмотреть ответ организации\nМ\nМарина Галафаст\nЗнаток города 3 уровня\nПодписаться\n29 августа 2025\nК мастеру Анастасии я хожу уже 5-й год . Настя большой профессионал своего дела . Она очень любит свою работу и поэтому все образы , которые она очень умело создает своими «золотыми ручками» меня всегда очень радуют и восхищают ! А еще Настя делает отлично брови . Подобрала мне тон и форму ! Спасибо Настя большое !\n1\nПосмотреть ответ организации\nОльга О.\nЗнаток города 4 уровня\nПодписаться\n11 ноября 2025\nБлагодарю от всего сердца мастера Анастасию. Никогда не могла добиться такого цвета и состояния волос!Отличная работа!Я ооочень рада. Руки золотые!Спасибо 🤩😘огромное!!!Рекомендую этого мастера всем!!!\nПосмотреть ответ организации\nЕлена К.\nЗнаток города 3 уровня\nПодписаться\n1 августа 2025\nПрекрасный мастер,внимательно меня выслушала и сделала то что я хотела,много советов дала,большое ей спасибо!Приду еще!Советую!\n1\nПосмотреть ответ организации\nВиктория\nЗнаток города 4 уровня\nПодписаться\n26 января\nАнастасия - мастер своего дела! Очень внимательная, индивидуальный подход к волосам. Делали уход и стрижку, получилось отлично. Однозначно рекомендую!\nПосмотреть ответ организации\nЮлия К.\nЗнаток города 3 уровня\nПодписаться\n19 октября 2025\nНастя профессионал своего дела, хожу не первый год. К моим тонким волосам относится бережно, окрашивание и стрижка всегда на высоте. В салоне приятная и уютная атмосфера. Рада, что нашла своего мастера❤️\nПосмотреть ответ организации\nАнастасия С.\nЗнаток города 4 уровня\nПодписаться\n1 октября 2025\nАнастасия очень приятный человек, а атмосфера для меня важна. По процедуре окрашивания и стрижки все пожелания были учтены и соблюдались.\nПосмотреть ответ организации\nJ\nJess G.\nЗнаток города 2 уровня\nПодписаться\n2 сентября 2025\n\nОгромная благодарность Анастасии! 🌸🧡За труд, профессионализм, ответственное отношение к работе, и самое главное за ту красоту что она сотворила! Стрижка 💇‍♀️ супер! Рекомендую!!!! 🫶 Очень рада, что попала к такому мастеру!\nПосмотреть ответ организации\nТатьяна Зав\nЗнаток города 4 уровня\nПодписаться\n2 июля 2025\nПриятное место, высококвалифицированный специалист Анастасия, очень точно подбирает индивидуальные образы, грамотный колорист и умелые ручки!\n1\nПосмотреть ответ организации\nLudmila Panutina\nЗнаток города 6 уровня\nПодписаться\n20 июля 2025\nНастя, это большая молодец и находка для девушек которые хотят иметь красивые здоровые волосы , но при этом не нужно ехать в Москву и делать это за большие деньги!!! Настюша спасибо за то что ты есть здесь 🤗 всегда твой благородный клиент!\n1\nПосмотреть ответ организации\nВиктория Рубцова\nЗнаток города 2 уровня\nПодписаться\n2 октября 2025\nАнастасия знает, как угодить клиенту в его \"хотелках\" и получить отличный результат. Подскажет как будет лучше и посоветует уход! Работой мастера более, чем довольна\n1\nПосмотреть ответ организации\nТаня 🚘\nЗнаток города 9 уровня\nПодписаться\n26 июня 2025\nВсе супер! Мастер великолепный, огромное спасибо! Настоящий профессионал своего дела, очень приятное и деликатное отношение.Однозначно приду ещё!\n2\nПосмотреть ответ организации\nОльга Серебренникова\nЗнаток города 8 уровня\nПодписаться\n5 марта\nХожу к Анастасии уже не первый раз. Мне очень нравиться как результат, так и атмосфера .\nСменила много мастеров, пока остановилась и задержалась у Анастасии ❤️\nПосмотреть ответ организации\nЕкатерина А\nЗнаток города 4 уровня\nПодписаться\n4 июля 2025\nХочу выразить огромную благодарность Насте! Хожу к ней не первый год , все на высшем уровне сервис и услуги . Всем довольна спасибо большое 💋\n1\nПосмотреть ответ организации\nЕлена Тюкова\nЗнаток города 5 уровня\nПодписаться\n8 августа 2025\nМастер услышала все мои пожелания,посоветовала что мне пойдет)я очень довольна результатом…вернусь к Анастасии,и не раз…\n1\nПосмотреть ответ организации\nВиктория Е.\nЗнаток города 4 уровня\nПодписаться\n11 декабря 2025\nЗаписалась к Анастасии почитав отзывы и ни на грамм не пожалела) Осталась очень довольна всем! Замечательный мастер и человек) Спасибо большое)\nПосмотреть ответ организации\nИгорь О.\nЗнаток города 3 уровня\nПодписаться\n20 октября 2025\nАнастасия очень внимательно выслушала пожелания, посоветовала, объяснила как и что, осталась очень довольна. Обязательно вернусь и не раз😊\nПосмотреть ответ организации\nИрина Лебедева\nЗнаток города 3 уровня\n18 сентября 2025\nЧудесный мастер! \n\nДоброжелательная и внимательная.\n\nЗнает свое дело, может посоветовать как лучше сделать, как безопаснее для волос. При этом, учитывая желение клиента)))\n\nРезультатом очень довольна, бонусом получила полезные советы по уходу))\n\nСПАСИБО!)))\n\n\nПосмотреть ответ организации\nК В\nЗнаток города 3 уровня\nПодписаться\n28 июля 2025\nХожу уже больше полгода на окрашивание и уход волос. Всё отлично. Рекомендую\n1\nПосмотреть ответ организации\nК. Алекс.\nЗнаток города 23 уровня\n25 июня 2025\nХодим всей семьей, стрижем детей, стригусь я, жена ещё красит волосы. Все довольны . Рекомендуем\n1\nПосмотреть ответ организации\nЕкатерина Сафонова\nЗнаток города 2 уровня\nПодписаться\n12 октября 2025\nОтличный специалист! Рекомендую всем!\n1\nПосмотреть ответ организации\nNatali\nЗнаток города 5 уровня\n25 июня 2025\nЗамечательный мастер. Знает свое дело на все 100%. Рекомендую\n1\nПосмотреть ответ организации\nАнна Шмелева\nЗнаток города 4 уровня\nПодписаться\n12 июля 2025\nОчень понравилось ❤️❤️❤️ Все именно так, как хотела\n1\nПосмотреть ответ организации\nАлександра\nЗнаток города 6 уровня\n14 сентября 2025\nЗамечательный мастер, обязательно вернусь снова\nПосмотреть ответ организации\n1\n2\nНаписать отзыв",
       "links": [
         {
           "text": "Маршруты",
@@ -1429,6 +1589,14 @@
         },
         {
           "text": "Аватар",
+          "href": "https://yandex.ru/maps/user/fvgj9h7x2eewyy33dpv051wdcg"
+        },
+        {
+          "text": "Александр",
+          "href": "https://yandex.ru/maps/user/fvgj9h7x2eewyy33dpv051wdcg"
+        },
+        {
+          "text": "Аватар",
           "href": "https://yandex.ru/maps/user/5q7uj0vyy81znpq7atc06hkfgg"
         },
         {
@@ -1458,14 +1626,6 @@
         {
           "text": "Марина Галафаст",
           "href": "https://yandex.ru/maps/user/t2faw6xfydrz6tfbraj9e69xug"
-        },
-        {
-          "text": "Аватар",
-          "href": "https://yandex.ru/maps/user/fvgj9h7x2eewyy33dpv051wdcg"
-        },
-        {
-          "text": "Александр",
-          "href": "https://yandex.ru/maps/user/fvgj9h7x2eewyy33dpv051wdcg"
         },
         {
           "text": "Аватар",
@@ -1881,7 +2041,14 @@
     "Logo и Team не создаются без подтверждённого логотипа и данных о конкретных мастерах."
   ],
   "download_failures": [],
-  "requested_photo_limit": 25,
+  "requested_photo_limit": 35,
   "gallery_links_found_raw": 185,
-  "gallery_urls_found": 185
+  "gallery_urls_found": 185,
+  "photo_reviewed": true,
+  "salon_photo_limit": 3,
+  "photo_review_summary": {
+    "works": 31,
+    "salon": 3,
+    "deleted": 1
+  }
 }
